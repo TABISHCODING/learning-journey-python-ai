@@ -50,12 +50,10 @@ To build strong, practical skills in:
 - AI Integration & APIs
 - Generative AI Application Building
 
-and become **job-ready for international AI & Python roles**.
-
 ---
 
 ## 🧑‍💻 Author
 
 **Md Tabish**  
 📚 Passionate about Generative AI, LLMs, and building real-world AI solutions  
-📫 [LinkedIn](https://linkedin.com) | 🌐 Portfolio (coming soon)
+📫 [LinkedIn](https://www.linkedin.com/in/md-tabish-2b2711291/) | 
