@@ -1,4 +1,5 @@
-MODULE 04
+**MODULE 04 API DEVELOPMENT**
+---
 ### 
 
 **Introduction to REST APIs**
@@ -764,3 +765,4 @@ Addressing Potential Criticisms
 
   * **The Concern:** Some may argue that implementing robust security measures adds complexity and overhead that slows down development.
   * **The Reality:** While there is an initial investment, the potential costs of a security breach—financial losses, reputational damage, and loss of user trust—far outweigh the effort of implementing security. In today's digital landscape, prioritizing security is a strategic imperative.
+
