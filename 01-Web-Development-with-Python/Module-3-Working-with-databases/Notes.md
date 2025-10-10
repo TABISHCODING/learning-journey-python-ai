@@ -368,7 +368,7 @@ While you can write raw SQL in Python, many developers use **ORMs (Object-Relati
 
 Even when using an ORM, understanding the underlying SQL is invaluable for troubleshooting, optimization, and grasping what your code is actually doing.
 
-Understood. Here is a comprehensive summary of ORMs and database schema design, formatted for your GitHub README.
+
 
 ### 
 
@@ -1693,3 +1693,4 @@ Finally, we put theory into practice by integrating databases with Python web fr
 * **Connecting to the App:** We learned how to establish the connection between the database and a Flask or Django application, typically using database drivers and a configuration URI.
 * **Defining Models:** Using an ORM like **Django's ORM** or **Flask-SQLAlchemy**, we defined **models**. These are Python classes that act as a blueprint for the database, defining the tables, columns, and relationships that structure the data.
 * **Performing CRUD with ORMs:** We used the ORM's simple and intuitive interface to perform CRUD operations. For example, to create a new user, you simply create a `User` object in Python, set its attributes, and use the ORM's `save()` or `commit()` method to persist it to the database, with the ORM handling the SQL generation behind the scenes.
+
