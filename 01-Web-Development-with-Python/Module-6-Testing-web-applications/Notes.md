@@ -950,3 +950,4 @@ The next course in the certificate program, **Advanced Python Development Techni
 * Advanced data structures (stacks, queues, graphs, trees).
 * Sophisticated coding techniques using decorators, generators, and context managers.
 * Advanced object-oriented programming with metaclasses and introspection.
+
